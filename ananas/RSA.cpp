@@ -6,7 +6,7 @@
 #include "boost/multiprecision/random.hpp"
 #include "boost/random/independent_bits.hpp"
 #include "boost/random/mersenne_twister.hpp"
-#include <boost/integer/mod_inverse.hpp>
+#include "mod_inverse.hpp"
 #include "Windows.h"
 
 /*
