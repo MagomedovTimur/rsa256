@@ -1,5 +1,5 @@
 # C++ RSA-256 Cryptography Algorithm Implementation
-The only third party library used in this project is boost for big integer, moule inverse and random.
+The only third party library used in this project is boost for big integer, module inverse and random.
 
 Press the "Generate keys" button to make private and public keys:
 
